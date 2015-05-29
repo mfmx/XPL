@@ -1,0 +1,21 @@
+html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
+#searchForm ol li{
+    list-style-type: none;}
+    #map-canvas{
+    display:block;}
+
+ .searchField input{
+ border:solid 2px transparent;
+ border-radius:2px;}
+ 
+ #map-canvas
+	{
+		width : 500px; 	/* map width */
+		height: 500px;	/* map height */
+		float:right;
+	}
+	

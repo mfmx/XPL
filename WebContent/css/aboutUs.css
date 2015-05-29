@@ -1,0 +1,22 @@
+.carousel{
+
+    height:500px;
+    background-color:lightgrey;
+    margin-top: 50px;
+
+}
+
+.carousel-inner > .item {
+
+margin-right: auto;
+    margin-left: auto;
+    margin-top:50px;
+}
+.carousel-inner > .item > img {
+
+    margin-right: auto;
+    margin-left: auto;
+}
+ .carousel-caption >h2{
+margin-top:300px;
+}
